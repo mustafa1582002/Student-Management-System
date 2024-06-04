@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "R6oWAOS6GhGuM7VWlNu557zmpNY0CKKSeCi11J5fsBs=",
+  "Source": "HandwrittenTextRecognitionSystem",
+  "BasePath": "_content/HandwrittenTextRecognitionSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HandwrittenTextRecognitionSystem\\wwwroot",
+      "Source": "HandwrittenTextRecognitionSystem",
+      "ContentRoot": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\wwwroot\\",
+      "BasePath": "_content/HandwrittenTextRecognitionSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\wwwroot\\images\\users\\6c7d1719-72dc-4f13-bad4-145eb068e468.jpg",
+      "SourceId": "HandwrittenTextRecognitionSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\wwwroot\\",
+      "BasePath": "_content/HandwrittenTextRecognitionSystem",
+      "RelativePath": "images/users/6c7d1719-72dc-4f13-bad4-145eb068e468.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\users\\6c7d1719-72dc-4f13-bad4-145eb068e468.jpg"
+    },
+    {
+      "Identity": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\wwwroot\\images\\users\\dd03131f-1f41-4d5e-bf16-78b0e43c1afb.jpg",
+      "SourceId": "HandwrittenTextRecognitionSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\wwwroot\\",
+      "BasePath": "_content/HandwrittenTextRecognitionSystem",
+      "RelativePath": "images/users/dd03131f-1f41-4d5e-bf16-78b0e43c1afb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\users\\dd03131f-1f41-4d5e-bf16-78b0e43c1afb.jpg"
+    }
+  ]
+}
