@@ -5,6 +5,7 @@
         public int Id { get; set; }
         public DateTime Date { get; set; }
         public byte[] File { get; set; } = null!;
+        //grade attr
         //adding new prop to store the solution in string attr
         public int AssignmentId { get; set; }
         public Assignment? Assignment { get; set; }//Ask for nullable

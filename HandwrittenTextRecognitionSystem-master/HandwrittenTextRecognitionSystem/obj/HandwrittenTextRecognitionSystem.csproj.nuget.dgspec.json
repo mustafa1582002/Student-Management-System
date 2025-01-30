@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj": {}
   },
   "projects": {
-    "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj",
         "projectName": "HandwrittenTextRecognitionSystem",
-        "projectPath": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\courses\\Route\\Projects\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\obj\\",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj",
+        "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "F:\\courses\\Route\\Projects\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -91,6 +100,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23330.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

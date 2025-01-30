@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\teacherassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\teacherassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\teacherassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\teacherassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\sutdentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\sutdentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\solutionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\solutionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|c:\\users\\musta\\onedrive\\documents\\github\\student-management-system\\handwrittentextrecognitionsystem-master\\handwrittentextrecognitionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118C7B43-F8AB-4E8A-BF95-1E06088394BE}|HandwrittenTextRecognitionSystem\\HandwrittenTextRecognitionSystem.csproj|solutionrelative:handwrittentextrecognitionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:23:00.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\TeacherAssistant.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\TeacherAssistant.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\TeacherAssistant.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\TeacherAssistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:22:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Teacher.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:22:20.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Solution.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Solution.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Solution.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:19:27.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Request.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Request.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:13:21.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Post.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:11:17.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Group.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:09:51.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Department.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:02:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Student.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:55:29.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Assignment.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:55:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\Course.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:45:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentGroup.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\StudentGroup.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Models\\StudentGroup.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Models\\StudentGroup.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Models\\StudentGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:46:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherAssistantsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\TeacherAssistantsController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\TeacherAssistantsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\TeacherAssistantsController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\TeacherAssistantsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SutdentsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\SutdentsController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\SutdentsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\SutdentsController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\SutdentsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SolutionsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\SolutionsController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\SolutionsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\SolutionsController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\SolutionsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\AuthenticationsController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\AuthenticationsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\AuthenticationsController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\AuthenticationsController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Controllers\\AssignmentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HandwrittenTextRecognitionSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Documents\\GitHub\\Student-Management-System\\HandwrittenTextRecognitionSystem-master\\HandwrittenTextRecognitionSystem\\Program.cs",
+              "RelativeToolTip": "HandwrittenTextRecognitionSystem\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAIwHoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:54:54.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

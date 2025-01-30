@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandwrittenTextRecognitionSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e401708e9978c3316bfc2d6d946d1b06a5d7dd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandwrittenTextRecognitionSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandwrittenTextRecognitionSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
